@@ -1,0 +1,83 @@
+TITLE: Vaccines
+
+SECTION 1: 
+
+No discussion of the flu is complete without mentioning vaccines.
+
+Vaccinations, or rather, the act of purposefully immunizing people in order to prevent the spread of disease or innumerable deaths due to infection, have their roots in medieval Asia.
+
+Tenth century Chinese physicians practiced a form of immunization for smallpox using a powder made from smallpox scabs. These physicians had found that, if people took this powder intranasally, like snuff, they developed a milder form of the illness and a short-term immunity to the disease. 
+
+Approximately 3-5% of the people who received this form of immunization still died as a result of the treatment, which to modern ears, seems like a large risk to take.
+
+In the face of smallpox, however, many did not see the treatment to be nearly the risk that chancing the full-scale disease might be. Smallpox killed between 20% and 60% of those infected, and was particularly lethal to infants and children, killing closer to 80% of infected children.
+
+It is for this reason that, in the 18th century, Lady Mary Wortley Montagu found herself awed and thrilled when faced with a related immunization procedure as practiced in Adrianople, in the Ottoman Empire (now Edirne, Turkey, near the border of Greece).
+
+Thrilled by the idea that she could prevent her loved ones from suffering and dying from smallpox, Montagu had her own children "ingrafted," as she called it. Her eager endorsement of the practice forced Western physicians and civilians to consider the form immunization as practiced in Asia and the Near East.
+
+Many in the West still faced immunization with skepticism, though. Due to how common smallpox was in Western Europe, many were dubious of a medical practice that came from "the barbarian East" that didn't ALWAYS prevent deaths.
+
+A great deal of the fear associated with medical immunization was decreased by the famous discovery made by Edward Jenner - that those who received the cowpox virus, a non-lethal infection, would also develop immunity to smallpox, its much more lethal cousin.
+This practice was the birth of the name "vaccination," coming from the Latin word for cow, "vacca."
+
+Vaccination had an unbelievable success rate for the world of early modern medicine. Jenner became unbelievably famous receiving awards from both sides of the Napoleonic War for his services, and a hero in his own time. He saw his scientific and medical research as a spiritual and religious service to the world, and his discovery of the efficacy of vaccination as a gift from God.
+
+He wasn't alone in this belief - across Europe, in Dessau and Gdansk, a leading Ashkenazi Jewish rabbi by the name of Rabbi Israel Lipschitz listed Jenner in one of his publications as one of the "righteous of the nations," who would merit a special place in the World to Come (in spite of Jenner's identity as a Christian) due to the millions of lives that Jenner's work had saved. (LINK:https://www.sefaria.org/Boaz_on_Pirkei_Avot.3.1?lang=bi&with=all&lang2=en)
+
+
+
+SECTION 2:
+
+Not all who encountered vaccinations saw them as a divine gift. While vaccines had initial success, many affluent white families began to see vaccines as a cause of unnecessary suffering. Some accused those who endorsed vaccines to be attempting to defy God, since a widespread theme in 18th and 19th century Christianity was a belief that God chose who fell ill, who survived, and who died. Vaccination, some argued, was an attempt to escape God's will on the matter of life and death.
+
+It is important to note that early vaccines often did still cause minor illnesses, and the occasional more-serious infection. Since vaccination had first become successful in these affluent white families, the common understanding of smallpox had faded in their memories, and smallpox had slowly become associated with impoverished black people. Due to this, racist theories about smallpox took off like a storm, with many groups of white people insisting that they did not need to vaccinate themselves for something that was, alternately, referenced as a disease of black people, poor people, and those chosen by God to suffer through the disease.
+
+Shortly after William Tebb, the leading British anto-vaccinationist, visited New York in 1879, the Anti-Vaccination Society of America was formed. In 1882, the New England Anti-Compulsory Vaccination League was formed, followed by the Anti-Vaccine League of New York City in 1885. Over the next few years, anti-vaccination took the country by storm, leading to a collapse of early compulsory vaccination legislation. People rioted in the streets over anti-vaccine sentiment, and negative feelings towards pro-vaccination organizations strengthened.
+
+Matters were made worse in the 1890s, when a less-lethal strain of smallpox swept through the American South, overwhelming the populace, but also seemingly reinforcing racist theories about smallpox at the time. Vaccination enforcement was quasi-military and violent, and often was as racist as anti-vaccination rhetoric, since it was believed by many that smallpox had become solely a disease of black people. Local responses to outbreaks of smallpox were restrictive and violent towards the local black community, and fear often led families to hide their infected relatives from both pro- and anti-vaccination organizations, actions which unfortunately increased the spread of smallpox.
+
+And, unlike all of the humans at the time, smallpox did not, in fact, discriminate. Eventually, the smallpox outbreak swelled to include white populations.
+
+As tensions and infections increased, the legal response to smallpox grew more violent. People were vaccinated at gunpoint, infected houses were burned to the ground, and those who refused to be vaccinated were placed in prison - where, as a prisoner, they were required to be vaccinated.
+
+In short, in the 19th and early 20th century, neither side of the American vaccination "debate" was what one could comfortably call "on the right side of history."
+
+By the early 20th century, the United States was one of the least-vaccinated countries northwest of the Ottoman Empire, and it began to lead to enormous amounts of deaths. Entire towns were wiped out by new waves of smallpox, due to a combination of refusing vaccinations and a lack of natural immunity.
+
+The mass deaths did have some effect on the American psyche, eventually. Slowly, and in part due to more racist theories involving eugenics, pro-vaccination ideology began to overtake the world. Particularly after World War I, World War II, the 1918 influenza epidemic, and the unbelievably enormous amounts of death associated with those major milestones in the first half of the 20th century, the idea of being able to easily prevent childhood illnesses, crippling illnesses, childhood deaths, and worldwide epidemics seemed to be an incredibly appealing idea.
+
+---
+The modern anti-vaccination movement can be traced almost exclusively to a man named Andrew Wakefield. Wakefield, who used to be a doctor and gastrointestinal researcher in Britain, claimed to have found a link between autism and the Measles-Mumps-Rubella vaccine. Shortly after publishing his claim in The Lancet, Wakefield publicly argued that it would be safer to avoid multivalent vaccines (vaccines with more than one immunization included in one injection), and promptly attempted to sell his own, new vaccine for the measles. 
+
+It did not take long for Wakefield's dishonesty to come to light - his research had not been a valid study, his claims were filled with holes, and he had constructed the entire so-called controversy in order to profit financially. Exiled from the scientific and medical communities, Wakefield took the the larger world, claiming with each interview to have more and more certainty about the dangers of vaccines, and asserting a wilder and wilder conspiracy as time went by.
+
+Wakefield took advantage of the very valid fears that parents often develop about protecting their children, as well as the growing hysteria about what autism is and why people have autism. He continues to profit from this fear to this day.
+
+----
+
+SECTION 3:
+
+Vaccines have led to one of the greatest victories in modern medicine. To a generation long-removed from the impact of smallpox, it might be difficult to imagine a world before smallpox eradication - to imagine why the World Health Organization and its allies might have pour uncountable people and resources into eradicating smallpox. There is a tendency among many to be dismissive of what is referenced as a "childhood disease." But what has been forgotten is the fear that once accompanied any mention of "childhood diseases."
+
+In a world filled with antibiotics and fever-reducers, the terror that every childhood illness once summoned has faded. Smallpox often killed 80% of the children who were infected. Scarlet fever, a disease developed from an untreated streptococcal infections, (like strep throat) killed approximately 25%. Measles often killed between 10% and 30% of infected children, and polio could alternately kill, leave a person with paralysis or developmental deformity, or seemingly disappear before causing terrible complications later in life. Diphtheria is fatal in 5% to 10% of cases, but kills more like 20% of children infected. Tetanus kills approximately 22% of infected victims in an unvaccinated population, and was still the cause of 14% of all neonatal deaths globally as recently as 1998.
+
+The efforts to eradicate smallpox took decades. A concerted effort by the Pan American Health Organization eliminated smallpox from all of the Americas excluding Argentina, Brazil, Colombia and Ecuador in the 1950s. Beginning in 1959, the World Health Organization took on the eradication program. By 1966, hundreds of countries had eradicated endemic smallpox, but success remained slow in the Indian subcontinent, Southeast Asia, much of sub-Saharan Africa, and Brazil.
+
+The initial push was difficult, but by 1973, more than 80% of the vaccines being produced for the smallpox eradication program were being produced in developing countries, and the act of vaccination was simplified and made more widely available. The WHO had aimed for success within a decade of the increased work in 1967. Less than a year after that projected date, in 1978, the last naturally occurring case of smallpox was isolated.
+
+In May 1980, the announcement was made - naturally occurring smallpox infections had been eradicated.
+ 
+Now, in the 21st century, we do not produce or receive smallpox vaccines. Without exposure, which would, by necessity, be artificial in this post-eradication world, these vaccines are unnecessary.
+
+So why not eradicate the flu?
+
+There are many reasons why influenza is not a disease currently within the human ability to eradicate - but that doesn't mean that the vaccines are not important.
+
+Influenza viruses mutate quickly, changing and shifting from month to month and year to year. As they change, human immunity to earlier versions of the virus does not remain as successful against newer versions. This is why individual strains of influenza might be temporarily suppressed, but new virulent strains emerge.
+
+The other major factor preventing influenza eradication is spillover (LINK). As previously discussed, influenza is a virus that humans and other animals can share. While smallpox was a solely human infection (even if preventable by a cousin infection from cowpox, which was not restricted to human hosts), influenza flourishes and mutates outside of human populations, only to flood back into human hosts with new virulence and lethality.
+
+Even if every human case of influenza could somehow be eradicated, it would not be long before influenza infections returned, re-gifted to humanity by domesticated animals.
+
+Seasonal vaccines, designed for seasonal influenza, are of vital importance. Evidence from historical research of influenza outbreaks implies that immunity to influenza can be multi-faceted. While you may still get an influenza infection, despite receiving the flu shot, that does not mean that the shot did not work. If your body recognizes one version of the influenza virus family as an intruder, it is more likely to effectively fight off other, closely-related versions of the same virus. Getting the flu shot, every year, protects you from the strain of influenza for which it was designed, and also provides partial protection for many other versions of the flu currently floating around.

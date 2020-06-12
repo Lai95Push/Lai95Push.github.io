@@ -1,0 +1,132 @@
+/**-- All ––––––––––––––––––––––– */
+.backing {
+	background-color: #F2E6E8;
+}
+
+ /**-- Headline ––––––––––––––––––––––– */
+h1 {
+	font-family: Times;
+}
+
+ /**-- Byline and Dateline –––––––––––––– */
+ 	.byline {
+ 		border-top: solid 2px;
+ 		border-bottom: solid 2px;
+ 		padding-top: 10px;
+ 		padding-bottom: 10px;
+ 		font-family: Arial;
+ 		font-weight: bolder;
+ 	}
+
+ /**-- Navbar ––––––––––––––––––––––– */
+ 	.nav {
+ 		text-align: center;
+ 		padding-top: 10px;
+ 		padding-bottom: 10px;
+ 		border-top: solid 2px;
+ 		margin-left: auto;
+ 		margin-right: auto;
+ 	}
+
+ /**-- Row 1 ––––––––––––––––––––––– */
+.article {
+	font-family: Arial, Sans;
+	font-size: 16px;
+}
+@media (max-width: 550px) {
+	p {
+		margin-top: 5px;
+	}
+}
+	 /**-- Graph 1 ––––––––––––––––––––––– */
+
+	 /**-- Audio link image ––––––––––––––––––––––– */
+.mediabox {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: solid 2px;
+	text-align: center;
+	background-color: white;
+}
+
+.medialink {
+	height: 220px;
+}
+.caption {
+	font-family: Arial, Sans;
+	font-size: 12px;
+	margin: 10px;
+}
+@media (max-width: 1112px) {
+	.medialink {
+		height: 200px;
+	}
+}
+
+
+ /**-- Row 2 ––––––––––––––––––––––– */
+
+	 /**-- Graph 2 ––––––––––––––––––––––– */
+
+
+ /**-- Row 3 ––––––––––––––––––––––– */
+
+	 /**-- Death Rates Chart ––––––––––––––––––––––– */
+ 	.chart {
+	width: 850px;
+	height: 550px;
+	}
+	
+	@media (max-width: 414px) {
+		.chart {
+			width: 340px;
+			height: 220px;
+		}
+	}
+	@media (max-width: 375px) {
+		.chart {
+			display: none;
+		}
+	}
+
+ /**-- Row 4 ––––––––––––––––––––––– */
+
+	 /**-- Graph 3 ––––––––––––––––––––––– */
+
+	 /**-- Pullquote ––––––––––––––––––––––– */
+.pullquote {
+	font-family: Times;
+	border: solid 2px;
+	padding: 10px;
+	background-color: white;
+}
+.pulltext {
+	font-size: 18px;
+	font-style: italic;
+	margin-bottom: 0;
+	text-align: center;
+}
+@media (max-width: 550px) {
+	.pullquote {
+		border-top: solid 2px;
+		border-bottom: solid 2px;
+		border-left: 0;
+		border-right: 0;
+		background-color: #F2E6E8;
+	}
+	.caption {
+		font-size: 10px;
+	}
+}
+
+ /**-- Row 5 ––––––––––––––––––––––– */
+
+	 /**-- Graph 4 ––––––––––––––––––––––– */
+
+
+	 /**-- Graph 5 ––––––––––––––––––––––– */
+/**-- Row 6 ––––––––––––––––––––––– */
+
+	 /**-- Death rates chart 2 ––––––––––––––––––––––– */
+

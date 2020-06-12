@@ -1,0 +1,27 @@
+TITLE: Influenza, Coronaviruses, and why we care
+
+SECTION 1:
+
+Influenza viruses and coronaviruses are related. They are both single-stranded RNA viruses. They are both transmitted primarily through respiratory droplets, and can be controlled through reduction of human contact. They both have a tendency to present as a respiratory disease, and infections can range from mild to lethal.
+
+It is there, however, that their similarities become more cosmetic than skin-deep.
+
+Influenza is a fast-moving virus. The time from infection to first symptoms is swift, and the length of time necessary to share infections is also short. Influenza reproduces quickly, mutates quickly, and changes quickly. 
+
+The novel coronavirus that causes COVID-19 moves more slowly, but its slower pace makes it more dangerous, right now. It can take up to 14 days for a person to begin exhibiting symptoms, but it appears that an infected person is contagious long before they are showing symptoms. Even more dangerous: current statistical research implies that between 50% and 80% of contagious persons infected with COVID-19 are asymptomatic (showing no observable symptoms) or pre-symptomatic (not yet showing symptoms, may show symptoms within the week or so). 
+
+This is one of the main reasons why COVID-19 appears to be spreading so uncontrollably, and why it appears to be so much more lethal than scientific research supports. Current estimates suppose that the case fatality rate for COVID-19 hovers somewhere between 0.1% and 4.5%, but if one places that percentage rate in the context of the entire U.S. population:
+
+According to the U.S. Census Bureau, the population of the U.S. in 2019 was 328.2 million people. 0.1% of 328.2 million is 328,200 people. 4.5% of 328.2 million is still 14.77 million people! 
+
+So, despite a lower case fatality rate than was originally presumed a few months ago, the wide spread of COVID-19 makes it terribly dangerous.
+
+SECTION 2:
+
+Why is this coronavirus called SARS-CoV-2?
+
+
+
+SECTION 3:
+
+Important Resources (links):
